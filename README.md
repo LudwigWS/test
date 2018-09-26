@@ -1,4 +1,4 @@
-Test
+测试 git commit 模板
 ![](https://i.imgur.com/dUvNgmd.jpg)  
 
 # [Proxyee Down](https://pdown.org)
